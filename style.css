@@ -1,0 +1,57 @@
+/* ===== Every comment starts with these to explain what the code does ===== */
+
+/* Basic settings for the whole page: font and colors */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #222;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+  line-height: 1.6;
+}
+
+/* The big headline at the top */
+h1 {
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+/* The gray text under your name */
+.subtitle {
+  color: #666;
+  font-size: 18px;
+}
+
+/* Section titles like "About me" and "Projects" */
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 8px;
+}
+
+/* The white boxes your projects are shown in */
+.project-card {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+/* Links turn blue and get underlined when you hover over them */
+a {
+  color: #0566d4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* The contact box at the bottom */
+footer {
+  margin-top: 50px;
+  padding-top: 10px;
+  color: #444;
+}
