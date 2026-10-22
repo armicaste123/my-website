@@ -10,8 +10,8 @@ My first project: a simple personal portfolio website built with plain HTML and 
 
 ## How to view it
 
-Open `index.html` in any browser, or visit the live version here:
-(You will add the link here after we put the site online with GitHub Pages)
+Open `index.html` in any browser, or visit the live version:
+https://armicaste123.github.io/my-website
 
 ## About me
 
